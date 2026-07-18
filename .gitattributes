@@ -1,4 +1,2 @@
-*.purs linguist-vendored=true
-src/** linguist-vendored=true
-run/bak/** linguist-vendored=true
-run/bak/php/** linguist-vendored=false linguist-generated=false linguist-language=PHP
+* linguist-vendored=true
+run/bak/php/** !linguist-vendored linguist-generated=false linguist-language=PHP
