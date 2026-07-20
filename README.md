@@ -1,6 +1,6 @@
 # phpurs
 
-<img height="120" alt="phpurs" src="https://github.com/user-attachments/assets/9a757713-3700-4f9d-844e-d35375d6c1af" />
+<img height="160" alt="phpurs" src="https://github.com/user-attachments/assets/9a757713-3700-4f9d-844e-d35375d6c1af" />
 <br />
 <br />
 
