@@ -1,2 +1,4 @@
 * linguist-vendored=true
 run/bak/php/** !linguist-vendored linguist-generated=false linguist-language=PHP
+*.sh linguist-detectable=false
+*.sh linguist-vendored
